@@ -16,7 +16,7 @@ after_success:
   - mkdir ./web ;
   - mkdir ./web/gen ;
   - cp index.html web/index.html ;
-  - cp out.csv web/out.csv ;
+  - cp devices.csv web/devices.csv ;
   # - cp LICENSE ./web
 
 
