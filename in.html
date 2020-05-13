@@ -1,92 +1,107 @@
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/css/mdb.min.css" rel="stylesheet">
 
-	<!-- Font Awesome -->
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-	<!-- Google Fonts -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
-	<!-- Bootstrap core CSS -->
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
-	<!-- Material Design Bootstrap -->
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/css/mdb.min.css" rel="stylesheet">
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js">
 
-	<!-- JQuery -->
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    </script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js">
 
-	</script>
-	<!-- Bootstrap tooltips -->
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js">
+    </script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js">
 
-	</script>
-	<!-- Bootstrap core JavaScript -->
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js">
+    </script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/js/mdb.min.js">
 
-	</script>
-	<!-- MDB core JavaScript -->
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/js/mdb.min.js">
+    </script>
 
-	</script>
+    <!-- Kryogenix Sorttable -->
+    <script type="text/javascript" src="https://kryogenix.org/code/browser/sorttable/sorttable.js">
+    </script>
 
-	<!-- Kryogenix Sorttable -->
-	<script type="text/javascript" src="https://kryogenix.org/code/browser/sorttable/sorttable.js">
-	</script>
+    <style>
+        table.dataTable thead .sorting:after,
+        table.dataTable thead .sorting:before,
+        table.dataTable thead .sorting_asc:after,
+        table.dataTable thead .sorting_asc:before,
+        table.dataTable thead .sorting_asc_disabled:after,
+        table.dataTable thead .sorting_asc_disabled:before,
+        table.dataTable thead .sorting_desc:after,
+        table.dataTable thead .sorting_desc:before,
+        table.dataTable thead .sorting_desc_disabled:after,
+        table.dataTable thead .sorting_desc_disabled:before {
+            bottom: 0.5em;
+        }
 
-	<style>
-		table.dataTable thead .sorting:after,
-		table.dataTable thead .sorting:before,
-		table.dataTable thead .sorting_asc:after,
-		table.dataTable thead .sorting_asc:before,
-		table.dataTable thead .sorting_asc_disabled:after,
-		table.dataTable thead .sorting_asc_disabled:before,
-		table.dataTable thead .sorting_desc:after,
-		table.dataTable thead .sorting_desc:before,
-		table.dataTable thead .sorting_desc_disabled:after,
-		table.dataTable thead .sorting_desc_disabled:before {
-			bottom: 0.5em;
-		}
+        #selectedColumn {
+            margin: 2em;
+            width: calc(100% - 4em);
+        }
+    </style>
 
-		#selectedColumn {
-			margin: 2em;
-			width: calc(100% - 4em);
-		}
-	</style>
+    <script>
+        $(document).ready(function () {
+            $("#selectedColumn").DataTable();
+            $(".dataTables_length").addClass("bs-select");
+        });
 
-	<script>
-		$(document).ready(function () {
-  $("#selectedColumn").DataTable();
-  $(".dataTables_length").addClass("bs-select");
-});
-
-window.onload = function () {
-  $("#man_").click();
-};
-	</script>
+        window.onload = function () {
+            $("#man_").click();
+        };
+    </script>
 
 
 </head>
 
 <body>
 
-	<table id="selectedColumn" class="table table-striped table-bordered table-sm sortable" cellspacing="0" width="100%">
-		<thead>
-			<tr>
-				<th class="th-sm">Manufacturer</th>
-				<th class="th-sm">Name</th>
-				<th class="th-sm">Category</th>
-				<th class="th-sm" id="age_">URL</th>
-			</tr>
-		</thead>
-		<tbody>
-			{%tbody%}
-		</tbody>
-		<tfoot>
-			<th class="th-sm">Manufacturer</th>
-			<th class="th-sm">Name</th>
-			<th class="th-sm">Category</th>
-			<th class="th-sm" id="age_">URL</th>
-		</tfoot>
-	</table>
+<h6 align="center">Buy me a cup of milk</h6>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" align="center">
+    <input type="hidden" name="cmd" value="_s-xclick"/>
+    <input type="hidden" name="hosted_button_id" value="RPKAFTAQS5LZC"/>
+    <input type="image" src="https://img.shields.io/badge/Donate-PayPal-green.svg" border="0" name="submit"
+           title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
+    <img alt="" border="0" src="https://www.paypal.com/en_GR/i/scr/pixel.gif" width="1" height="1"/>
+</form>
+>
+
+<a href="https://github.com/purpl3F0x/mqa-devices"><img style="position: absolute; top: 0; right: 0; border: 0;"
+                                                        src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"
+                                                        alt="Fork me on GitHub"></a>
+
+
+<table id="selectedColumn" class="table table-striped table-bordered table-sm sortable" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th class="th-sm">Manufacturer</th>
+        <th class="th-sm">Name</th>
+        <th class="th-sm">Category</th>
+        <th class="th-sm" id="age_">URL</th>
+    </tr>
+    </thead>
+    <tbody>
+    {%tbody%}
+    </tbody>
+    <tfoot>
+    <th class="th-sm">Manufacturer</th>
+    <th class="th-sm">Name</th>
+    <th class="th-sm">Category</th>
+    <th class="th-sm" id="age_">URL</th>
+    </tfoot>
+</table>
 
 </body>
