@@ -1,0 +1,30 @@
+notifications:
+  email: true
+
+
+language: python
+
+
+install:
+  - pip install -r requirements.txt
+
+
+script: python3 main.py
+
+
+after_success:
+  - mkdir ./web ;
+  - mkdir ./web/gen ;
+  - cp index.html web/index.html ;
+  - cp out.csv web/out.csv ;
+  # - cp LICENSE ./web
+
+
+deploy:
+  provider: pages
+  github_token: $GITHUB_OAUTH_TOKEN
+  local_dir: web/
+  skip_cleanup: true
+  keep_history: true
+  on:
+    branch: master
