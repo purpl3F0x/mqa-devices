@@ -4,7 +4,7 @@ import helper
 import csv
 
 URL = "https://www.mqa.co.uk"
-FIRST_URL = URL + "/how-to-get-mqa"
+FIRST_URL = URL + "/playback-devices"
 
 visited_manufacturers = []
 
