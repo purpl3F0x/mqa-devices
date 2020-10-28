@@ -29,10 +29,10 @@ ONKYO, Onkyo NS-6130,Network Audio Player,https://eu.onkyo.com/en-GLOBAL/c/ns-61
 ONKYO, Onkyo NS-6170,Network Audio Player,https://eu.onkyo.com/en-GLOBAL/brands/onkyo/ns-6170/p/156623
 ONKYO, Onkyo range,Portable Players,http://www.uk.onkyo.com/en/portable-audio-324.html
 PIONEER,Pioneer PD-50AE,CD player,https://www.pioneer-audiovisual.eu/eu/products/pd-50ae
-PIONEER,Pioneer range,Portable Players,http://xdp-100r.pioneer-audiovisual.eu/
-PIONEER, Pioneer XDP-30R,Compact Portable Player,https://www.pioneer-audiovisual.eu/eu/products/xdp-30r
-PIONEER," PioneerN-30AE, N-50AE,N-70AE",Network Audio Players,https://www.pioneer-audiovisual.eu/eu/network-audio-player
-PIONEER, PioneerSX-N30AE,Network Audio Receiver,https://www.pioneer-audiovisual.eu/eu/products/sx-n30ae
+PIONEER,Pioneer range,Portable Players,https://pioneer-headphones.com/dap/
+PIONEER, Pioneer XDP-30R,Compact Portable Player,https://pioneer-headphones.com/dap/xdp-30r.html
+PIONEER," PioneerN-30AE, N-50AE,N-70AE",Network Audio Players,https://intl.pioneer-audiovisual.com/products/2ch_components/
+PIONEER, PioneerSX-N30AE,Network Audio Receiver,https://intl.pioneer-audiovisual.com/products/2ch_components/sx-n30ae/index.php
 PIONEER, Pioneer NC-50A & NC-50DAB,Network Audio & CD Players,https://intl.pioneer-audiovisual.com/products/2ch_components/nc-50dab/index.php
 SHANLING,Shanling M5s,Portable Player,http://en.shanling.com/product/226
 SONY,Sony WalkmanZX-500 series,Portable Players,https://www.sony.co.uk/electronics/walkman/nw-zx500-series
@@ -59,9 +59,9 @@ Cocktail Audio | Novafidelity, cocktailAudio N15D,Network Adapter & DAC,http://w
 Cocktail Audio | Novafidelity, cocktailAudio X14,All-in-One HD Hi-Fi Music Player,http://www.cocktailaudio.com/home/sub01_10.php
 dCS, dCS Vivaldi DAC & Upsampler,DACs,https://dcsltd.a.cdnify.io/products/vivaldi-dac/keyfeatures
 dCS, dCS Bartok,DAC,https://www.dcsltd.co.uk/products/bartok-headphone-dac-amplifier/
-dCS, dCS Network Bridge,Network Streamer,https://www.dcsltd.co.uk/products/network-bridge/keyfeatures
-dCS, dCS Vivaldi One,DAC,https://www.dcsltd.co.uk/products/vivaldi-one/keyfeatures
-dCS, dCS Rossini,DAC,https://www.dcsltd.co.uk/products/rossini-dac/keyfeatures
+dCS, dCS Network Bridge,Network Streamer,https://dcsltd.a.cdnify.io/products/network-bridge
+dCS, dCS Vivaldi One,DAC,https://dcsltd.a.cdnify.io/products/vivaldi-one/
+dCS, dCS Rossini,DAC,https://dcsltd.a.cdnify.io/products/rossini-dac/
 EMM Labs,EMM Labs DA2 V2,DAC,https://www.emmlabs.com/da2v2.php
 EMM Labs,EMM Labs NS1,Network Streamer,https://www.emmlabs.com/ns1.php
 EMM Labs,EMM Labs DV2,DAC,https://www.emmlabs.com/dv2.php
@@ -73,6 +73,7 @@ ESOTERIC,Esoteric N-01XD,Network Streamer & DAC,https://www.esoteric.jp/en/produ
 ESOTERIC, Esoteric N-05,Network Streamer,http://www.esoteric.jp/products/esoteric/n05/indexe.html
 ESOTERIC, Esoteric N-03T,Network Audio Transport,http://www.esoteric.jp/products/esoteric/n03t/indexe.html
 ESOTERIC, Esoteric N-01,Network Streamer,http://www.esoteric.jp/products/esoteric/n01/indexe.html
+exaSound Audio Design, exaSound e62,DAC,https://www.exasound.com/Products/e62DAC.aspx
 exaSound Audio Design,exaSound PlayPoint DM,DAC & Network Streamer,https://www.exasound.com/Products/PlayPointDM.aspx
 exaSound Audio Design, exaSound e32,DAC,https://exasound.com/e32/e32DACOverview.aspx
 IFI AUDIO,hip-DAC,Portable DAC,https://ifi-audio.com/products/hip-dac/
@@ -80,13 +81,15 @@ IFI AUDIO,Zen DAC,Portable DAC,https://ifi-audio.com/products/zen-dac/
 IFI AUDIO, iFiPro iDSD,DAC,https://ifi-audio.com/products/pro-idsd/
 IFI AUDIO, iFi series,Portable DACs,https://ifi-audio.com/products/xdsd/
 Jineung,JAVS X7-DAC,DACs,http://www.jineung.co.kr/new/product/view.php?idx=26
-KRELL,Krell K-300i,Integrated Amplifier,http://www.krellonline.com/integrated-amps.html
-KRELL, KrellVanguard Universal,DAC,http://www.krellonline.com/sources.html
-LUMIN, Lumin range,DACs & Network Players,http://www.luminmusic.com/streaming-services.html
-LUMIN, Lumin range,Network Streamers,http://www.luminmusic.com/lumin-x1.html
+KRELL,Krell K-300i,Integrated Amplifier,https://www.krellhifi.com/products/k-300i-integrated-stereo-amplifier/
+KRELL, KrellVanguard Universal,DAC,https://www.krellhifi.com/products/vanguard-universal-dac-source/
+LUMIN, X1,Network Streamer,http://www.luminmusic.com/lumin-x1.html
+LUMIN, A1,Network Streamer,http://www.luminmusic.com/lumin-a1.html
+LUMIN, D2,Network Streamer,http://www.luminmusic.com/lumin-d2.html
 LUMIN,Lumin U1 &U1 Mini,Streaming Transport,http://www.luminmusic.com/lumin-u1.html
 M2Tech, M2Tech Young MkIII,DAC,http://lnx.m2tech.biz/products/rockstars/young-mkiii/
-Mark Levinson,Mark Levinson No5805&5802,Integrated Amplifiers,https://www.marklevinson.com/products/integrated-amplifiers/
+Mark Levinson,Mark Levinson No5206,Integrated Amplifier,https://www.marklevinson.com/products/preamplifiers/NO5206-.html?dwvar_NO5206-_color=Black-US-Current&cgid=preamplifiers
+Mark Levinson,Mark Levinson No5805 & 5802,Integrated Amplifiers,https://www.marklevinson.com/products/integrated-amplifiers/
 Mark Levinson,Mark Levinson No519,Network Streamer & DAC,https://www.marklevinson.com/products/players/NO519-.html?cgid=players&dwvar_NO519-_color=Black-GLOBAL-Current
 Matrix Audio,Matrix Audiomini-i Pro 3,Network Streamer,https://www.matrix-digi.com/en/products/489.html
 Matrix Audio,Matrix Audioelement X,Network Streamer,https://matrix-digi.com/en/products/321.html
@@ -95,9 +98,9 @@ Matrix Audio,Matrix Audioelement P,Network Streamer,https://matrix-digi.com/en/p
 Matrix Audio, X-Sabre Pro(MQA),DAC,http://www.matrix-digi.com/en/products/319.html
 MERIDIAN AUDIO, Meridian 210,Network Streamer,https://www.meridian-audio.com/products/streamers/210/
 MERIDIAN AUDIO, Meridian range,DACs,https://www.meridian-audio.com/products/dacs/
-MERIDIAN AUDIO, Meridian range,Speakers,https://www.meridian-audio.com/products/loudspeakers/
+MERIDIAN AUDIO, Meridian range,Speakers,https://www.meridian-audio.com/products/home-audio-loudspeakers/
 MERIDIAN AUDIO, Meridian 808v6,CD Player,https://www.meridian-audio.com/product-support/earlier-products/reference-series/reference-808/
-MERIDIAN AUDIO,Meridian range,Pre-amplifiers,https://www.meridian-audio.com/products/digital-pre-amp/
+MERIDIAN AUDIO,Meridian range,Pre-amplifiers,https://www.meridian-audio.com/products/digital-pre-amps/reference-818v3/
 MOON BY SIMAUDIO,MOON 680D,Streaming DAC,https://simaudio.com/en/product/680d-streaming-dac/?v=445d337b5cd5
 MOON BY SIMAUDIO, MOON 390,Network player & Preamplifier,https://simaudio.com/en/product/390-network-player-preamplifier/
 MOON BY SIMAUDIO, MOON 780D,Streaming DAC,https://simaudio.com/en/product/780d-streaming-dac/
@@ -107,8 +110,8 @@ MSB TECHNOLOGY, MSB,DACs,https://www.msbtechnology.com/dacs/
 MYTEK, Mytek,DACs,https://mytekdigital.com/
 NAD, NAD range,DACs,https://nadelectronics.com/products/dacs/
 NAD,NAD range,Network Streamers,https://nadelectronics.com/products/masters/
-NAD, NAD range,Integrated Amplifiers,https://nadelectronics.com/en_GB/products/all-amplifiers/integrated-amplifiers/
-NAD, NAD CI720,Network Stereo Zone Amplifier,https://nadelectronics.com/en_GB/product/ci-720-network-stereo-zone-amplifier/
+NAD, NAD range,Integrated Amplifiers,https://nadelectronics.com/products/all-amplifiers/
+NAD, NAD CI720,Network Stereo Zone Amplifier,https://nadelectronics.com/product/ci-720-v2-network-stereo-zone-amplifier/
 NuPrime Audio, NuPrimeEvolution DAC,DACs,https://nuprimeaudio.com/product/evo-dac/?v=79cba1185463
 PALAB,PALAB DAC-M1,DAC,http://www.palabaudio.com/products.html
 PRO-JECT AUDIO SYSTEMS, Pro-Ject DAC Box RS2,DAC,https://www.project-audio.com/de/produkt/dac-box-rs2/
@@ -120,8 +123,8 @@ S.M.S.L,S.M.S.L SU-9,DAC,https://www.smsl-audio.com/portal/product/detail/id/722
 S.M.S.L,S.M.S.L M400,DAC,https://www.smsl-audio.com/portal/product/detail/id/547.html
 S.M.S.L,S.M.S.L M500,DAC,https://www.smsl-audio.com/portal/product/detail/id/546.html
 Sonnet Digital Audio, SonnetMorpheus DAC,DAC,https://www.sonnet-audio.com/Accessories.html
-TEAC, TEAC NR-7CD,Network Streamer &CD Player,http://www.teac-audio.eu/en/products/nr-7cd-135846.html
-TEAC,TEAC NT-505,Network Player &USB DAC,http://www.teac-audio.eu/en/products/nt-505-149454.html
+TEAC, TEAC NR-7CD,Network Streamer &CD Player,https://teac.jp/int/product/nr-7cd/top
+TEAC,TEAC NT-505,Network Player &USB DAC,https://teac.jp/int/product/nt-505/top
 Topping Audio,Topping D90,DACs,http://www.tpdz.net/productinfo/398270.html
 WADAX, Wadax Atlantis DAC,DAC,http://www.wadax.eu/?q=atlantis/dac
 AUDIOQUEST,DragonFly Cobalt,Portable DACs,https://www.audioquest.com/page/aq-dragonfly-series.html
@@ -132,6 +135,7 @@ Audirect,hiliDAC Beam 2s,Portable DAC,https://www.hilidac.com/product-page/beam-
 Audirect,hiliDAC atom Pro,Portable DAC,https://www.hilidac.com/product-page/atom-pro
 Audirect,hiliDAC Beam 2,Portable DAC,https://www.hilidac.com/product-page/beam-2-mqa-dsd-mini-dac
 Zorloo,Ztella Integrated USB-DAC Cable,Portable DAC,https://www.zorloo.com/ztella
+ARCAM,ARCAM SA30,Integrated Amplifier,"https://www.arcam.co.uk/product,hda,integrated-amplifiers,sa30.htm"
 Atoll Eléctronique,Atoll MS120,Mini-Streamer,https://www.atoll-electronique.com/en/products/mini-line/ms120gb/
 Atoll Eléctronique,ST200 Signature,Network Streamer,https://www.atoll-electronique.com/en/products/streamers/streamer-st200-signature/
 Atoll Eléctronique,SDA200 Signature,All-in-One,https://www.atoll-electronique.com/en/products/sda-all-in-one/streamer-sda200-signature/
