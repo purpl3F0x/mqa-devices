@@ -16,7 +16,11 @@ def parse_product_page(url):
     page_ = requests.get(url)
     soup_ = BeautifulSoup(page_.content, "html.parser")
 
-    manufacturer = soup_.find("div", {"class": "banner panel"}).text.strip()
+    try:
+        manufacturer = soup_.find("div", {"class": "banner panel"}).text.strip()
+    except:
+        print("ERROR: ", url, page_.status_code)
+        return 
 
     if manufacturer in visited_manufacturers:
         return
