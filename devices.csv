@@ -12,6 +12,7 @@ Cayin, Cayin N8ii,Portable Player,https://en.cayin.cn/features/7/15/560.html
 Cayin,Cayin N3 Pro,Portable Player,https://en.cayin.cn/features/7/15/340.html
 Cayin, Cayin N6ii Series,Portable Players,https://en.cayin.cn/features/7/15/150/339.html
 Cayin,Cayin N8 series,Portable Players,https://en.cayin.cn/features/7/15/338.html
+FiiO, FiiO BTR7,Portable DAC,https://www.fiio.com/btr7
 FiiO, FiiO Q3,Portable DAC,https://www.fiio.com/q3mqa
 FiiO,Jade Audio KA1,Portable DAC,https://www.fiio.com/KA1
 FiiO,FiiO M17,Portable Player,https://www.fiio.com/m17
@@ -71,12 +72,8 @@ BRINKMANN, Brinkmann Nyquist MkII,DAC,http://www.brinkmann-audio.com/main.php?pr
 Cambridge Audio, Cambridge AudioEvo 150 & 75,DACs,https://www.cambridgeaudio.com/usa/en/products/evo
 Cambridge Audio, Cambridge AudioDacMagic 200M,DAC,https://www.cambridgeaudio.com/row/en/products/hi-fi/dacmagic/dacmagic-200m
 CANEVER AUDIO,CanEVER ZeroUno series,DAC,http://www.canever.eu/1/zerouno_hpa_1433189.html
-Cocktail Audio | Novafidelity, cocktailAudio N25,Network Streamer & Music Server,https://www.cocktailaudio.com/home/sub01_13.php
-Cocktail Audio | Novafidelity, cocktailAudio X45,Network Streamer & Music Server,http://www.cocktailaudio.com/home/sub01_02.php
-Cocktail Audio | Novafidelity,cocktail Audio X45Pro,Reference-level Music Server & DAC,http://www.cocktailaudio.com/home/sub01_09.php
-Cocktail Audio | Novafidelity, cocktail Audio X35,All-In-One Music Player,http://www.cocktailaudio.com/home/sub01_05.php
-Cocktail Audio | Novafidelity, cocktailAudio X50D,Digital Music Server,http://www.cocktailaudio.com/home/sub01.php
-Cocktail Audio | Novafidelity, cocktailAudio N15D,Network Adapter & DAC,http://www.cocktailaudio.com/home/sub01_04.php
+Cocktail Audio | Novafidelity, cocktailAudio range,All-In-One Music Players,https://www.cocktailaudio.com/home/
+Cocktail Audio | Novafidelity, cocktailAudio range,DACs,https://www.cocktailaudio.com/home/
 dCS, dCS Bartok,DAC,https://www.dcsltd.co.uk/products/bartok-headphone-dac-amplifier/
 dCS, dCS Network Bridge,Network Streamer,https://dcsaudio.com/legacy-components/network-bridge
 dCS, dCS Vivaldi One,DAC,https://dcs30.com/
@@ -108,7 +105,6 @@ iFi Audio,iFi ZEN DAC V2,Portable DAC,https://ifi-audio.com/products/zen-dac-v2/
 iFi Audio,iDSD Diablo,Portable DAC,https://ifi-audio.com/products/idsd-diablo/
 iFi Audio, iFi NEO iDSD,DAC,https://ifi-audio.com/products/neo-idsd/
 iFi Audio, iFi micro iDSD Signature,DAC,https://ifi-audio.com/products/micro-idsd-signature/
-Kaiboer,Kaiboer Q70,Media Player,http://www.kaiboer.com/product/showproduct.php?id=200
 Khadas, Khadas Tea,Portable DAC,https://www.khadas.com/tea
 Khadas,Khadas Tone2 Pro,DAC,https://www.khadas.com/product-page/tone2pro
 KRELL,Krell K-300i,Integrated Amplifier,https://www.krellhifi.com/products/k-300i-integrated-stereo-amplifier/
@@ -143,9 +139,9 @@ MOON BY SIMAUDIO,MOON 780D v2,Streaming DAC,https://simaudio.com/en/product/780d
 MOON BY SIMAUDIO,MOON 280D,Streaming DAC,https://simaudio.com/en/product/280d-streaming-dac/
 MSB TECHNOLOGY, MSB range,DACs,https://www.msbtechnology.com/dacs/
 MYTEK, Mytek Brooklyn Bridge,DACs,https://mytek.audio/world/
-NAD,NAD C 399,Integrated Amplifier,https://nadelectronics.com/nad-launches-new-c-399-hybriddigital-dac-amplifier/
+NAD,NAD C 399,Integrated Amplifier,https://nadelectronics.com/product/c-399-hybrid-digital-dac-amplifier/
 NAD,NAD range,Network Streamers,https://nadelectronics.com/products/masters/
-NAD, NAD range,DACs,https://nadelectronics.com/products/dacs/
+NAD, NAD C658,Streaming DAC,https://nadelectronics.com/products/dacs/
 NAD, NAD CI720,Network Stereo Zone Amplifier,https://nadelectronics.com/product/ci-720-v2-network-stereo-zone-amplifier/
 PALAB,PALAB M1-mini,Portable DAC,http://www.palabaudio.com/products_m1-mini.html
 PALAB,PALAB DAC-M1,DAC,http://www.palabaudio.com/products.html
