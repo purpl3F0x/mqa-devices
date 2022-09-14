@@ -2,6 +2,7 @@ Manufacturer,Name,Category,URL
 ROG,ROG Clavis,Portable DAC,https://rog.asus.com/uk/headsets-audio/accessories/rog-clavis-model/
 Zorloo,Ztella MK II Integrated USB-DAC Cable,Portable DAC,https://www.zorloo.com/ztella2
 Zorloo,Ztella Integrated USB-DAC Cable,Portable DAC,https://www.zorloo.com/ztella
+Astell&Kern, Astell&Kern SP3000,Portable Player,https://www.astellnkern.com/product/product_detail.jsp?productNo=138
 Astell&Kern, Astell&KernKANN MAX,Portable Player,https://www.astellnkern.com/product/product_detail.jsp?productNo=133
 Astell&Kern,A&ultima SP2000T,Portable Player,https://www.astellnkern.com/product/product_detail.jsp?productNo=22
 Astell&Kern,A&futura SE180,Portable Player,https://www.astellnkern.com/product/product_detail.jsp?productNo=2
@@ -10,6 +11,7 @@ Astell&Kern,Astell&Kern SA700,Portable Player,https://www.astellnkern.com/produc
 Astell&Kern,A&futura SE200,Portable Player,https://www.astellnkern.com/product/product_detail.jsp?productNo=23
 Cayin, Cayin N8ii,Portable Player,https://en.cayin.cn/features/7/15/560.html
 Cayin,Cayin N3 Pro,Portable Player,https://en.cayin.cn/features/7/15/340.html
+FiiO, FiiO M11S,Portable Player,https://www.fiio.com/m11s
 FiiO, FiiO BTR7,Portable DAC,https://www.fiio.com/btr7
 FiiO, FiiO Q3,Portable DAC,https://www.fiio.com/q3mqa
 FiiO,Jade Audio KA1,Portable DAC,https://www.fiio.com/KA1
@@ -69,6 +71,8 @@ BRINKMANN, Brinkmann Nyquist MkII,DAC,http://www.brinkmann-audio.com/main.php?pr
 Cambridge Audio, Cambridge AudioEvo 150 & 75,DACs,https://www.cambridgeaudio.com/usa/en/products/evo
 Cambridge Audio, Cambridge AudioDacMagic 200M,DAC,https://www.cambridgeaudio.com/row/en/products/hi-fi/dacmagic/dacmagic-200m
 CANEVER AUDIO,CanEVER ZeroUno series,DAC,http://www.canever.eu/1/zerouno_hpa_1433189.html
+CH Precision, CH Precision C1.2,DAC,https://www.ch-precision.com/product/c1-2-digital-to-analog-controller/
+CH Precision, CH Precision D1.5 SACD/CD Player,CD & Digital Player,https://www.ch-precision.com/product/d1-5-sacd-cd-player-transport/
 Cocktail Audio | Novafidelity, cocktailAudio range,All-In-One Music Players,https://www.cocktailaudio.com/home/
 Cocktail Audio | Novafidelity, cocktailAudio range,DACs,https://www.cocktailaudio.com/home/
 dCS, dCS Bartok,DAC,https://www.dcsltd.co.uk/products/bartok-headphone-dac-amplifier/
@@ -238,7 +242,6 @@ Rotel Electronics,Rotel RA-1572MKII,Integrated Amplifier,https://www.rotel.com/e
 Rotel Electronics,Rotel RA-1592MKII,Integrated Amplifier,https://www.rotel.com/en-gb/product/ra-1592mkii
 Rotel Electronics,Rotel X5,Integrated Amplifier,http://www.rotel.com/en-gb/product/x5
 Rotel Electronics,Rotel MICHI P5,Control Amplifier,http://www.rotel.com/en-apac/product/p5
-CH Precision, CH Precision D1.5 SACD/CD Player,CD & Digital Player,https://www.ch-precision.com/product/d1-5-sacd-cd-player-transport/
 Luxman,Luxman D-10X,CD & Digital Player,http://www.luxman.com/product/detail.php?id=37
 Luxman,Luxman D-03X,CD & Digital Player,http://www.luxman.com/product/detail.php?id=36
 Control4,Control4 OS3,Home Automation,https://www.control4.com/os3
